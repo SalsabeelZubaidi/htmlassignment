@@ -1,0 +1,12 @@
+>> what's the difference between <p> and <article> ?
+ - <p> creates a new paragraph.
+ - <article> is basically only a container, alone it doesn't do anything, it just helps to keep the website organized.
+
+
+>> what's the difference between <div> and <section> ?
+ - <div> is a generic container element that does not carry any semantic meaning. It is mostly used for grouping related elements together
+   and applying styling to them via CSS.
+
+ - <section> is a semantic element that represents a specific section of a web page with a distinct topic or purpose, and it is often used 
+   for dividing a page into multiple sections, like chapters in a book, to make it more organized and easier to understand for both humans  
+   and machines.  
